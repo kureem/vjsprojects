@@ -1,0 +1,17 @@
+.prod-table img{
+    width: 96px;
+}
+
+.prod-table thead{
+    visibility: hidden;
+}
+
+.prod-table tbody tr td:nth-child(3), .prod-table tbody tr td:nth-child(4){
+    vertical-align: middle;
+    text-align: right;
+}
+
+.prod-table tbody tr td:nth-child(2){
+    vertical-align: middle;
+}
+

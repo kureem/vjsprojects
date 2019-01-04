@@ -1,0 +1,9 @@
+.customer-table tbody tr td:nth-child(1){
+    width: 96px;
+}
+.customer-table tbody tr td:nth-child(1) img{
+    width: 96px;
+}
+.customer-table thead{
+    display: none;
+}

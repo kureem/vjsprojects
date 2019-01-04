@@ -1,0 +1,10 @@
+.create-categories .toolbar{
+    display: flex; 
+    justify-content: space-between;
+    width: 100%;
+}
+
+.create-categories .list-group{
+    height: 300px;
+    overflow-y: scroll;
+}

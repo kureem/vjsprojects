@@ -1,0 +1,16 @@
+.form-group.image label,.form-group.image input[type=file]{
+    display: none;
+}
+
+.form-group.image .slds-image-input{
+    text-align: center;
+}
+body{
+    background: #eee;
+}
+
+.card-seperator{
+    position: relative;
+    left: -19px;
+    width: calc(100% + 38px);
+}

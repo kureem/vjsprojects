@@ -1,0 +1,7 @@
+.col-table img{
+    width: 100%;
+}
+
+.col-table tbody tr td:nth-child(4){
+    text-align: center;
+}
